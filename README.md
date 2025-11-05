@@ -1,4 +1,4 @@
-# 🌿 Sustainable Visibility Toolkit v3.1
+# Work in the Wild: A Build-Your-Own Visibility Resource
 ### Evidence-Based Marketing for Independent Practitioners & Community Businesses
 
 *A free, open-source resource grounded in behavioral economics and small business research*
@@ -33,7 +33,7 @@ If you're an independent operator building a practice in your community, this is
 
 ## What's Inside
 
-📖 **[Read the Full Toolkit →](Sustainable_Visibility_Toolkit_v3.1_with_Citations.md)**
+📖 **[Read the Full Toolkit →](Work in the Wild: A Build-Your-Own Visibility Resource.md)**
 
 ### Core Frameworks
 1. **Self-Assessment Tool** - Find your starting point (20 questions)
@@ -92,7 +92,7 @@ Every section includes ready-to-use AI prompts for customization. Paste your sit
 
 ## Quick Start
 
-1. **[Take the Self-Assessment](Sustainable_Visibility_Toolkit_v3.1_with_Citations.md#2-self-assessment-find-your-starting-point)** (5 minutes)
+1. **[Take the Self-Assessment](Work in the Wild: A Build-Your-Own Visibility Resource.md#2-self-assessment-find-your-starting-point)** (5 minutes)
 2. **Jump to Your Starting Section** based on your score
 3. **Implement Quick Wins** (2-3 hours total)
 4. **Build Your 5-Hour Rhythm**
@@ -206,9 +206,7 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 ## Connect
 
 - 💬 **Issues/Suggestions:** [Open an issue](../../issues)
-- ☕ **Optional Support:** [Ko-fi](https://ko-fi.com/danieve)
-- 📧 **Contact:** [Your contact method]
-- 🌐 **Website:** [Your website if you have one]
+- 🌐 **Website & Optional Support:** [Ko-fi](https://ko-fi.com/danieve)
 
 ---
 
@@ -216,13 +214,13 @@ This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 Interna
 
 If this resource helps you, please share it with others who might benefit:
 
-**Direct link:** `https://github.com/[your-username]/sustainable-visibility-toolkit`
+**Direct link:** `https://github.com/[your-username]/Work in the Wild: A Build-Your-Own Visibility Resource`
 
 **Social media templates:**
 
-> 🌿 Found this free, research-backed marketing toolkit for independent practitioners. Based on studies from Wharton, Bain & Company, and BrightLocal. Built for 5 hours/week, not 20. Check it out: [your-link]
+> Found this free, research-backed marketing toolkit for independent practitioners. Based on studies from Wharton, Bain & Company, and BrightLocal. Built for 5 hours/week, not 20. Check it out: [your-link]
 
-> Just discovered the Sustainable Visibility Toolkit - a comprehensive, evidence-based marketing guide for small businesses that's actually FREE and community-driven. Game-changer for solo practitioners who don't have huge marketing budgets. [your-link]
+> Just discovered the Work in the Wild: A Build-Your-Own Visibility Resource - a comprehensive, evidence-based marketing guide for small businesses that's actually FREE and community-driven. Game-changer for solo practitioners who don't have huge marketing budgets. [your-link]
 
 ---
 
@@ -238,6 +236,6 @@ Thank you for being part of the trust loops that make communities healthier.
 
 ⭐ **If this helps you, please star this repository to help others find it!**
 
-📥 **Download:** Click "Code" → "Download ZIP" or [view online](Sustainable_Visibility_Toolkit_v3.1_with_Citations.md)
+📥 **Download:** Click "Code" → "Download ZIP" or [view online](Work in the Wild: A Build-Your-Own Visibility Resource.md)
 
 🔄 **Stay Updated:** Click "Watch" → "Releases only" to get notified of major updates
