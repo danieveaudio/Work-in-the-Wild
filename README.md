@@ -33,7 +33,7 @@ If you're an independent operator building a practice in your community, this is
 
 ## What's Inside
 
-📖 **[Read the Full Toolkit →](Work in the Wild: A Build-Your-Own Visibility Resource)**
+📖 **[Read the Full Toolkit →][(Work in the Wild: A Build-Your-Own Visibility Resource](https://github.com/danieveaudio/Work-in-the-Wild/blob/0482da5ad73ba7061781f20bca4344ecf8d416e6/Work%20in%20the%20Wild%3A%20A%20Build-Your-Own%20Visibility%20Resource.md))**
 
 ### Core Frameworks
 1. **Self-Assessment Tool** - Find your starting point (20 questions)
@@ -92,7 +92,7 @@ Every section includes ready-to-use AI prompts for customization. Paste your sit
 
 ## Quick Start
 
-1. **[Take the Self-Assessment](Work in the Wild: A Build-Your-Own Visibility Resource.md#2-self-assessment-find-your-starting-point)** (5 minutes)
+1. **[Take the Self-Assessment]([Work in the Wild: A Build-Your-Own Visibility Resource.md](https://github.com/danieveaudio/Work-in-the-Wild/blob/0482da5ad73ba7061781f20bca4344ecf8d416e6/Work%20in%20the%20Wild%3A%20A%20Build-Your-Own%20Visibility%20Resource.md)#2-self-assessment-find-your-starting-point)** (5 minutes)
 2. **Jump to Your Starting Section** based on your score
 3. **Implement Quick Wins** (2-3 hours total)
 4. **Build Your 5-Hour Rhythm**
