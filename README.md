@@ -33,7 +33,7 @@ If you're an independent operator building a practice in your community, this is
 
 ## What's Inside
 
-📖 **[Read the Full Toolkit →](Work in the Wild: A Build-Your-Own Visibility Resource.md)**
+📖 **[Read the Full Toolkit →](Work in the Wild: A Build-Your-Own Visibility Resource)**
 
 ### Core Frameworks
 1. **Self-Assessment Tool** - Find your starting point (20 questions)
