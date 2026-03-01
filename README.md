@@ -1,3 +1,6 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/58b0b187-83b5-4fa6-ab3a-1f68f944d4b1" />
+
+
 # 🌿 Work in the Wild: A Build-Your-Own Visibility Resource
 ### Evidence-Based Marketing for Independent Practitioners & Community Businesses
 
